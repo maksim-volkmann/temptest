@@ -12,3 +12,6 @@
 ```css
    // code for coloring
 ```
+```diff
+   // code for coloring
+```
