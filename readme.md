@@ -16,4 +16,4 @@ $${\color{black}Black}$$	$${\color{black}Black}$$
 $${\color{white}White}$$	$${\color{white}White}$$
 
 
-$${\color{red}\text{Red}}$$
+$${\color{red}\text{Red is nice}}$$
