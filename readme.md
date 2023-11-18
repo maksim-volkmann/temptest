@@ -1,5 +1,6 @@
-$${\color{red}This is the red text test!}$$	
+$${\color{red}This}$$	
 
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 $${\color{green}Green}$$	
 $${\color{green}Green}$$
