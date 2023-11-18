@@ -12,5 +12,9 @@
 ```css
    // code for coloring
 ```
-```diff````
-´´´´Deprecated´´´´
+```diff`
+this is diff
+```
+´´´´Deprecated
+   this is depre
+´´´´
