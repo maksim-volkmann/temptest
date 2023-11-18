@@ -14,3 +14,6 @@ $${\color{lightblue}Light \space Blue}$$
 
 $${\color{black}Black}$$	$${\color{black}Black}$$
 $${\color{white}White}$$	$${\color{white}White}$$
+
+
+$${\color{red}\text{Red}}$$
