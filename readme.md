@@ -1,5 +1,5 @@
 $${\color{red}Red}$$	
-$${\color{red}Red}$$
+
 
 $${\color{green}Green}$$	
 $${\color{green}Green}$$
