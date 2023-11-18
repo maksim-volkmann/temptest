@@ -1,4 +1,4 @@
-$${\color{red}Red}$$	
+$${\color{red}This is the red text test!}$$	
 
 
 $${\color{green}Green}$$	
