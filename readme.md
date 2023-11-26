@@ -17,3 +17,9 @@ $${\color{white}White}$$	$${\color{white}White}$$
 
 
 $${\color{red}\text{This is the easier way to get color red!}}$$
+
+> [!IMPORTANT]  
+> Test important test important test important.
+
+> [!NOTE]  
+> Note test, note test, note test, note test, note test.
