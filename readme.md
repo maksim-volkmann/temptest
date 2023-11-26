@@ -43,3 +43,13 @@ $${\color{red}\text{This is the easier way to get color red!}}$$
 
 	> `getent` means "get entries", so `getent group sudo` means, get information about the group named `sudo`.
 	</details>
+
+
+
+ <div align="center">
+    <a href="#">Home Page</a> |
+    <a href="#">Discord</a> |
+    <a href="#">Examples</a> |
+    <a href="#">Blog</a> |
+    <a href="#">Documentation</a>
+</div>
