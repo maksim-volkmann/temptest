@@ -32,3 +32,14 @@ $${\color{red}\text{This is the easier way to get color red!}}$$
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+---
+
+6. To check if it worked, type `getent group sudo`. Your user should be in the list.
+
+	<details>
+	<summary>What is "<em>getent</em>"?</summary>
+	<br>
+
+	> `getent` means "get entries", so `getent group sudo` means, get information about the group named `sudo`.
+	</details>
