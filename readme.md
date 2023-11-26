@@ -22,7 +22,7 @@ $${\color{red}\text{This is the easier way to get color red!}}$$
 > Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Press `control` to exit the virtual machine.
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
