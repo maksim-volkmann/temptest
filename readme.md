@@ -18,9 +18,12 @@ $${\color{white}White}$$	$${\color{white}White}$$
 
 $${\color{red}\text{This is the easier way to get color red!}}$$
 <span style="width:50%">
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming.
+
 </span>
+
 > [!TIP]
 > Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. 
 
