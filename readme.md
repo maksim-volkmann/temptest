@@ -19,10 +19,10 @@ $${\color{white}White}$$	$${\color{white}White}$$
 $${\color{red}\text{This is the easier way to get color red!}}$$
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
-> Press `control` to exit the virtual machine.
+> Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. Press `control` to exit the virtual machine. 
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
